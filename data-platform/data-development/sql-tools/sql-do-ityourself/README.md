@@ -100,7 +100,19 @@ Ready to explore SQLcl? Follow these steps to install SQLcl and start leveraging
 3. Explore SQLcl commands and features to familiarize yourself with its capabilities.
 4. Start scripting and executing SQL commands with ease using SQLcl's intuitive interface.
 
-# 3. Reusable Assets Overview
+## 3. SQL Developer
+**Oracle SQL Developer is the Oracle Database IDE**
+
+A free graphical user interface, Oracle SQL Developer allows database users and administrators to do their database tasks in fewer clicks and keystrokes. A productivity tool, SQL Developer's main objective is to help the end user save time and maximize the return on investment in the Oracle Database technology stack.
+
+SQL Developer supports Oracle Database 10g, 11g, and 12c and will run on any operating system that supports Java.
+
+### 3.1. Useful links
+- [Oracle SQL Developer official documentation](https://docs.oracle.com/en/database/oracle/sql-developer/)
+- [VS Code Extension](https://www.thatjeffsmith.com/sql-developer/)
+
+
+# 4. Reusable Assets Overview
 
 TBD
 
